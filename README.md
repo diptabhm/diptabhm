@@ -1,3 +1,5 @@
+![banner (2)](https://github.com/diptabhm/diptabhm/assets/109970609/2f0b3e68-be0b-4d79-9b84-aad503ecea07)
+
 <h1 align="center">Hi 👋, I'm Diptabh Medhi</h1>
 <h3 align="center">A passionate Android developer</h3>
 
